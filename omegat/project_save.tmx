@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011230Z" creationid="GMH" creationdate="20190712T011230Z">
+        <seg>ټول فرمایشات د ګلدوزی په اپلیکیشن که تعقیبیږی&lt;t0/&gt;A&lt;t1/&gt;اپلیکیشن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp helps:</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011145Z" creationid="GMH" creationdate="20190712T011145Z">
@@ -46,10 +54,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lead entrepreneurs have a list of accounts</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011321Z" creationid="GMH" creationdate="20190712T011321Z">
+        <seg>غوره متشبثین د حسابونو (اکاونتونو) یو لیسټ لری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn and reinforce skills (Phase 1)</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T004545Z" creationid="GMH" creationdate="20190712T004505Z">
         <seg>د مهارتونو زده کول او تقویه کول (لومړی برخه) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn how to record a sale.</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T142803Z" creationid="GMH" creationdate="20190712T142803Z">
+        <seg>زده کړئ چې څنګه کولای شئ یو خرڅلا ثبت کړئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +90,14 @@
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T010109Z" creationid="GMH" creationdate="20190712T010109Z">
         <seg>لومړی لوست: د اپلیکیشن لګول او پیلول</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 2: Activities 1-3</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011344Z" creationid="GMH" creationdate="20190712T011344Z">
+        <seg>دوهم لوست: فعالیتونه له ۱ څخه تر ۳</seg>
       </tuv>
     </tu>
     <tu>
