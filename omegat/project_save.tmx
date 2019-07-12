@@ -20,6 +20,14 @@
         <seg>د گلدوزی د موبایل اپلیکیشن</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the &lt;t0/&gt;Goldozi&lt;t1/&gt; App</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T003820Z" creationid="GMH" creationdate="20190712T003820Z">
+        <seg>ګټه اخیستل&lt;t0/&gt;ګلدوزی&lt;t1/&gt; اپلیکیشن</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
