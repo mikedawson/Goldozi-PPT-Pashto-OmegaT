@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Managing and tracking orders</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T010738Z" creationid="GMH" creationdate="20190712T010738Z">
+        <seg>د فرمایشاتو مدیریت او تعقیبول</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>O&lt;t0/&gt;rganizing                Managing                 Tracking                  Sales</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T005013Z" creationid="GMH" creationdate="20190712T005013Z">
@@ -186,6 +194,14 @@
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T004929Z" creationid="GMH" creationdate="20190712T004929Z">
         <seg>د دې اپلیکیشن هدف&lt;t0/&gt;ګلدوزی&lt;t1/&gt; له تاسو سره مرسته کوی چې خپل خرڅلاوی مدیریت کړئ او کچه یی لوړ کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tracking payments received from customers and payments issued to producers</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011113Z" creationid="GMH" creationdate="20190712T011113Z">
+        <seg>له پیرودونکو څخه لاسته راوړل شوی پیسو او تولید کوونکو ته د پیسو انتقالولو تعقیبول</seg>
       </tuv>
     </tu>
     <tu>
