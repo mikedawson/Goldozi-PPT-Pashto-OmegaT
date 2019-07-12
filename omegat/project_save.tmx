@@ -14,10 +14,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation and Onboarding</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T010029Z" creationid="GMH" creationdate="20190712T010029Z">
+        <seg>لګول او پیلول</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn and reinforce skills (Phase 1)</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T004545Z" creationid="GMH" creationdate="20190712T004505Z">
         <seg>د مهارتونو زده کول او تقویه کول (لومړی برخه) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 1: App Installation and Onboarding</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T010213Z" creationid="GMH" creationdate="20190712T010213Z">
+        <seg>لومړی لوست: د اپلیکیشن لګول او پیلول</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 1: App installation and onboarding</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T010109Z" creationid="GMH" creationdate="20190712T010109Z">
+        <seg>لومړی لوست: د اپلیکیشن لګول او پیلول</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 2: Managing sales to customers</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T010139Z" creationid="GMH" creationdate="20190712T010139Z">
+        <seg>دوهم لوست: پیریدونکو ته د خرڅلاوو مدیریت کول</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 3: Learning and reinforcing skills</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T010157Z" creationid="GMH" creationdate="20190712T010157Z">
+        <seg>دریم لوست: د مهارتونو زده کول او تقویه کول</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +114,14 @@
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T005236Z" creationid="GMH" creationdate="20190712T005236Z">
         <seg>وخت او پیسی وسپموی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up your smartphone</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T010307Z" creationid="GMH" creationdate="20190712T010307Z">
+        <seg>د خپل ټیلفون جوړل</seg>
       </tuv>
     </tu>
     <tu>
