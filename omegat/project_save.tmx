@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Technology to Improve Business</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T003647Z" creationid="GMH" creationdate="20190712T003647Z">
+        <seg>ټکنالوژی د سوداګری د پرمختګ لپاره</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Goldozi Mobile App</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T003418Z" creationid="GMH" creationdate="20190712T003418Z">
+        <seg>د گلدوزی د موبایل اپلیکیشن</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
