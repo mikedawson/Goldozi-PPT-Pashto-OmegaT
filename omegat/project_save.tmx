@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Your Professional Endeavors</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T132635Z" creationid="GMH" creationdate="20190714T132635Z">
+        <seg>ستاسو په مسلکی هڅو کې</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increase efficiency and accuracy</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T005214Z" creationid="GMH" creationdate="20190712T005214Z">
@@ -470,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 1: Tap &lt;t0/&gt;&gt;Courses</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T132605Z" creationid="GMH" creationdate="20190714T132605Z">
+        <seg>لومړۍ ګام: کیکاږئ&lt;t0/&gt;&gt;کورسونه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 2 of 2: Ask your customer to sign the screen and tap &lt;t0/&gt;&gt;ACCEPT &lt;t1/&gt;to save their signature</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124547Z" creationid="GMH" creationdate="20190714T124547Z">
@@ -518,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 2: Select the lesson that you would like to revise</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T132703Z" creationid="GMH" creationdate="20190714T132703Z">
+        <seg>دوهم ګام: هغه لوست چې تاسو غواړئ تکرار یې کړئ، غوره کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 3 of 3: To edit a pre-order, tap it</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T130830Z" creationid="GMH" creationdate="20190714T130830Z">
@@ -554,6 +578,14 @@
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123446Z" creationid="GMH" creationdate="20190714T123446Z">
         <seg>له ۹ ګامونو څخه دریم ګام: کیکاږئ &lt;t0/&gt;&gt;موقعیت &lt;t1/&gt;چې سم موقعیت غوره کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 3: Complete the lesson to prepare for your practical exam – good luck!</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T132805Z" creationid="GMH" creationdate="20190714T132805Z">
+        <seg>دریم ګام: د خپل عملی آزموینې ته د تیارۍ لپاره، لوست بشپړه کړئ - بریالی اوسئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +738,14 @@
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T003820Z" creationid="GMH" creationdate="20190712T003820Z">
         <seg>ګټه اخیستل&lt;t0/&gt;ګلدوزی&lt;t1/&gt; اپلیکیشن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wishing You Success</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T132616Z" creationid="GMH" creationdate="20190714T132616Z">
+        <seg>ستاسو د بریا په هیله</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
