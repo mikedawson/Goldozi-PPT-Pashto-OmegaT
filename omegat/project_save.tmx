@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 4: Add another item to a sale</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T125236Z" creationid="GMH" creationdate="20190714T125236Z">
+        <seg>څلورم فعالیت: په خرڅلا کې یو بل توک یا شی اضافه کول</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011230Z" creationid="GMH" creationdate="20190712T011230Z">
@@ -382,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 4 of 4: Tap &lt;t0/&gt;&gt;SAVE</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T125209Z" creationid="GMH" creationdate="20190714T125209Z">
+        <seg>د ۴ ګامونو څلورم ګام: کیکاږئ&lt;t0/&gt;&gt;ثبت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 4 of 9: Tap &lt;t0/&gt;&gt;Add Item</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123518Z" creationid="GMH" creationdate="20190714T123518Z">
@@ -426,6 +442,14 @@
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124055Z" creationid="GMH" creationdate="20190714T124055Z">
         <seg>له ۹ ګامونو څخه نهم ګام: کیکاږئ&lt;t0/&gt;&gt;ثبت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tap &lt;t0/&gt;&gt;Add Item &lt;t1/&gt;and repeat steps 3-9 in &lt;t2/&gt;Activity 1</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T125322Z" creationid="GMH" creationdate="20190714T125322Z">
+        <seg>کیکاږئ&lt;t0/&gt;&gt;د یو توک اضافه کول &lt;t1/&gt;او له ۳ څخه تر ۹ ګامونو تکرار کړئ &lt;t2/&gt;د لومړۍ فعالیت</seg>
       </tuv>
     </tu>
     <tu>
