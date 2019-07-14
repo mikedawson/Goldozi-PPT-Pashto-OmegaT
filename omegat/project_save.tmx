@@ -326,6 +326,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 4 of 9: Tap &lt;t0/&gt;&gt;Add Item</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123518Z" creationid="GMH" creationdate="20190714T123518Z">
+        <seg>له ۹ ګامونو څخه څلورم ګام: کیکاږئ &lt;t0/&gt;&gt;توکه اضافه کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 5 of 9: Tap to select the entrepreneur who created the item</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123628Z" creationid="GMH" creationdate="20190714T123628Z">
+        <seg>له ۹ ګامونو څخه پنځم ګام: کیکاږئ ترڅو هغه متشبث چې دا توک یې جوړ کړی دی، پیدا کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 6 of 9: Tap to select an item</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123656Z" creationid="GMH" creationdate="20190714T123656Z">
+        <seg>له ۹ ګامونو څخه شپږم ګام: کیکاږئ ترڅو توک غوره کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 7 of 9: Tap to record the quantity and price per piece</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123906Z" creationid="GMH" creationdate="20190714T123906Z">
+        <seg>له ۹ ګامونو څخه اووم ګام: کیکاږئ ترڅو در هرې ټوټې یا جنس تعداد او بیه ثبت کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technology to Improve Business</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T003647Z" creationid="GMH" creationdate="20190712T003647Z">
