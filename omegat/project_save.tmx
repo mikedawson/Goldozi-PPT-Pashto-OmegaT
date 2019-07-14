@@ -534,10 +534,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 4 of 7: Tap &lt;t0/&gt;&gt;Add payment</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T131527Z" creationid="GMH" creationdate="20190714T131527Z">
+        <seg>د ۷ ګامونو څلورم ګام، کیکاږئ &lt;t0/&gt;&gt;د اداینې وړ پیسې اضافه کول</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 4 of 9: Tap &lt;t0/&gt;&gt;Add Item</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123518Z" creationid="GMH" creationdate="20190714T123518Z">
         <seg>له ۹ ګامونو څخه څلورم ګام: کیکاږئ &lt;t0/&gt;&gt;توکه اضافه کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 5 of 7: Tap &lt;t0/&gt;&gt;P&lt;t1/&gt;a&lt;t2/&gt;yment&lt;t3/&gt; amount &lt;t4/&gt;and record the amount that has been paid</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T131923Z" creationid="GMH" creationdate="20190714T131923Z">
+        <seg>د ۷ ګامونو پنځم ګام: کیکاږئ &lt;t0/&gt;&gt;P&lt;t1/&gt;a&lt;t2/&gt;د اداینې وړ پیسې&lt;t3/&gt; مقدار &lt;t4/&gt;او هغه مقدار پیسې چې ادا شوی دی، ثبت کړئ</seg>
       </tuv>
     </tu>
     <tu>
