@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 2 of 7: To filter payments that are due, tap &lt;t0/&gt;&gt;Sort by</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T131229Z" creationid="GMH" creationdate="20190714T131229Z">
+        <seg>د ۷ ګامونو دوهم ګام: د اداینې وړ پیسو د چاڼ/ فلټر کولو لپاره، کیکاږئ &lt;t0/&gt;&gt;اڼل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 2 of 9: T&lt;t0/&gt;ap&lt;t1/&gt; &lt;t2/&gt;&gt;&lt;t3/&gt;Record&lt;t4/&gt; &lt;t5/&gt;Sale</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123336Z" creationid="GMH" creationdate="20190714T123336Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T125022Z" creationid="GMH" creationdate="20190714T125022Z">
         <seg>د ۴ ګامونو دریم ګام: کیکاږئ ترڅو د پیسو د ادا کولو نیټه اضافه کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 3 of 7: To record a payment or partial payment for an item, tap it</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T131354Z" creationid="GMH" creationdate="20190714T131354Z">
+        <seg>د ۷ ګامونو دریم ګام: د یو توک د ادا شوی پیسې یا ځینی ادا شوی پیسو د ثبتولو لپاره، کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
