@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 8: Find and edit a pre-order that you have recorded</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T130533Z" creationid="GMH" creationdate="20190714T130533Z">
+        <seg>اتم فعالیت: د داسی یو مخکینی فرمایش پیدا کول او سمول چې تاسو ثبت کړی وی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011230Z" creationid="GMH" creationdate="20190712T011230Z">
@@ -382,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 1 of 3: To find a pre-order, tap &lt;t0/&gt;&gt;Pre-orders</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T130625Z" creationid="GMH" creationdate="20190714T130625Z">
+        <seg>د ۳ ګامونو لومړۍ ګام: د یو مخکینی فرمایش د پیدا کولو لپاره، کیکاږئ &lt;t0/&gt;&gt;مخکینی فرمایشات</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 1 of 3: To find a sale, tap &lt;t0/&gt;&gt;All sales</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T130235Z" creationid="GMH" creationdate="20190714T130235Z">
@@ -410,6 +426,14 @@
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124547Z" creationid="GMH" creationdate="20190714T124547Z">
         <seg>د ۲ ګامونو دوهم ګام: د پیریدونکی څخه وغواړئ چې په سکرین باندی امضآ وکړی او کیکاږی &lt;t0/&gt;&gt;منل &lt;t1/&gt;ترڅو خپل امضآ ثبت کړی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 2 of 3: To filter pre-orders, tap &lt;t0/&gt;&gt;Sort by</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T130752Z" creationid="GMH" creationdate="20190714T130752Z">
+        <seg>د ۳ ګامونو دوهم ګام: د مخکینی فرمایشاتو د چاڼ یا فلټر کولو لپاره، کیکاږئ&lt;t0/&gt;&gt;د ... په اساس اڼن </seg>
       </tuv>
     </tu>
     <tu>
