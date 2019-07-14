@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 3: Record a payment or a partial payment</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124658Z" creationid="GMH" creationdate="20190714T124658Z">
+        <seg>دریم فعالیت: ټول یا ځینی ادا شوی پیسې ثبتول </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011230Z" creationid="GMH" creationdate="20190712T011230Z">
