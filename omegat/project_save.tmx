@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn how to find and edit a pre-order that you have recorded.</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T122906Z" creationid="GMH" creationdate="20190714T122800Z">
+        <seg>زده کړئ چې څنګه کولای شئ یو مخکینی فرمایش چې تاسو ثبت کړی، پیدا کړئ او سمون ورکړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn how to find and edit a sale that you have recorded.</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T122508Z" creationid="GMH" creationdate="20190714T122508Z">
@@ -120,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>Learn&lt;t0/&gt; &lt;t1/&gt;how&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;record&lt;t6/&gt; a &lt;t7/&gt;pre&lt;t8/&gt;-order.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T122335Z" creationid="GMH" creationdate="20190714T122335Z">
-        <seg>زده کړئ&lt;t0/&gt; &lt;t1/&gt;څنګه&lt;t2/&gt; &lt;t3/&gt;له&lt;t4/&gt; &lt;t5/&gt;ثبت&lt;t6/&gt; یو &lt;t7/&gt;مخکی&lt;t8/&gt;فرمایش</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T122808Z" creationid="GMH" creationdate="20190714T122335Z">
+        <seg>زده کړئ&lt;t0/&gt; &lt;t1/&gt;څنګه&lt;t2/&gt; &lt;t3/&gt;له&lt;t4/&gt; &lt;t5/&gt;ثبت&lt;t6/&gt; یو &lt;t7/&gt;مخکینی&lt;t8/&gt;فرمایش</seg>
       </tuv>
     </tu>
     <tu>
