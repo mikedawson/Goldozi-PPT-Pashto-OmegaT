@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key activity for lead entrepreneurs:</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T132150Z" creationid="GMH" creationdate="20190714T132150Z">
+        <seg>د مخکښ متشبثینو لپاره مهم فعالیت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lead entrepreneurs have a list of accounts</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011321Z" creationid="GMH" creationdate="20190712T011321Z">
@@ -366,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reinforcing what was learned during the  &lt;t0/&gt;Phase I t&lt;t1/&gt;raining</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T132325Z" creationid="GMH" creationdate="20190714T132325Z">
+        <seg>دوباره تقویت کول چې څه مو زده کړل په جریان کې د &lt;t0/&gt;لومړۍ مرحلې t&lt;t1/&gt;زده کړې</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save time and money</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T005236Z" creationid="GMH" creationdate="20190712T005236Z">
@@ -566,10 +582,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 6 of 7: Tap to record the date of the payment</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T132023Z" creationid="GMH" creationdate="20190714T132023Z">
+        <seg>د ۷ ګامونو شپږم ګام: د پیسو د ادا کولو نیټې د ثبتولو لپاره کیکاږئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 6 of 9: Tap to select an item</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123656Z" creationid="GMH" creationdate="20190714T123656Z">
         <seg>له ۹ ګامونو څخه شپږم ګام: کیکاږئ ترڅو توک غوره کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 7 of 7: Tap &lt;t0/&gt;&gt;SAVE</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T132045Z" creationid="GMH" creationdate="20190714T132045Z">
+        <seg>د ۷ ګامونو اووم ګام: کیکاږئ &lt;t0/&gt;&gt;ثبتول</seg>
       </tuv>
     </tu>
     <tu>
