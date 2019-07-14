@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn how to mark an item as delivered.</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T121723Z" creationid="GMH" creationdate="20190714T121723Z">
+        <seg>زده کړئ چې ځنګه کولای شئ یو شی په نښه کړئ چې سپارل شوی دی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn how to record a payment or a partial payment.</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T122043Z" creationid="GMH" creationdate="20190714T122043Z">
+        <seg>زده کړئ چې څنګه کولای شئ ټول ورکړل شوی پیسی یا ځینی ورکړل شوی پیسی ثبت کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn how to record a sale.</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T142803Z" creationid="GMH" creationdate="20190712T142803Z">
