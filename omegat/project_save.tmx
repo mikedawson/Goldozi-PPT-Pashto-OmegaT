@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 6: &lt;t0/&gt;Record&lt;t1/&gt; a &lt;t2/&gt;pre&lt;t3/&gt;-order</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T125704Z" creationid="GMH" creationdate="20190714T125704Z">
+        <seg>شپږم فعالیت:  &lt;t0/&gt;ثبت&lt;t1/&gt; یو &lt;t2/&gt;مخکینی&lt;t3/&gt;فرمایش</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activity 6: Record a pre-order</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T125637Z" creationid="GMH" creationdate="20190714T125637Z">
+        <seg>شپږم فعالیت: د یو مخکینی فرمایش ثبتول</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011230Z" creationid="GMH" creationdate="20190712T011230Z">
