@@ -78,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn how to add order notes.</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T122252Z" creationid="GMH" creationdate="20190714T122252Z">
+        <seg>زه کړئ چې څنګه کولای شئ د فرمایشاتو یاددښتونه اضافه کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn how to find and edit a sale that you have recorded.</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T122508Z" creationid="GMH" creationdate="20190714T122508Z">
+        <seg>زده کړئ چې څنګه کولای شئ یو خرڅلا چې تاسو ثبت کړی، پیدا کړئ او سمون ورکړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn how to mark an item as delivered.</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T121723Z" creationid="GMH" creationdate="20190714T121723Z">
@@ -98,6 +114,14 @@
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T142803Z" creationid="GMH" creationdate="20190712T142803Z">
         <seg>زده کړئ چې څنګه کولای شئ یو خرڅلا ثبت کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn&lt;t0/&gt; &lt;t1/&gt;how&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;record&lt;t6/&gt; a &lt;t7/&gt;pre&lt;t8/&gt;-order.</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T122335Z" creationid="GMH" creationdate="20190714T122335Z">
+        <seg>زده کړئ&lt;t0/&gt; &lt;t1/&gt;څنګه&lt;t2/&gt; &lt;t3/&gt;له&lt;t4/&gt; &lt;t5/&gt;ثبت&lt;t6/&gt; یو &lt;t7/&gt;مخکی&lt;t8/&gt;فرمایش</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +154,14 @@
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T122110Z" creationid="GMH" creationdate="20190714T122110Z">
         <seg>دوهم لوست: فعالیتونه  له ۴ څخه تر ۶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 2: Activities 7-9</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T122354Z" creationid="GMH" creationdate="20190714T122354Z">
+        <seg>دوهم لوست: فعالیتونه له ۷ څخه تر ۹</seg>
       </tuv>
     </tu>
     <tu>
