@@ -358,6 +358,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 8 of 9: Tap to record the item as sold</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124031Z" creationid="GMH" creationdate="20190714T124031Z">
+        <seg>له ۹ ګامونو څخه اتم ګام: کیکاږئ ترڅو توک یا شی خرڅ شوی ثبت کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 9 of 9: Tap &lt;t0/&gt;&gt;SAVE</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124055Z" creationid="GMH" creationdate="20190714T124055Z">
+        <seg>له ۹ ګامونو څخه نهم ګام: کیکاږئ&lt;t0/&gt;&gt;ثبت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technology to Improve Business</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T003647Z" creationid="GMH" creationdate="20190712T003647Z">
