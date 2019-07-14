@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 2: Mark an item as delivered</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124148Z" creationid="GMH" creationdate="20190714T124148Z">
+        <seg>دوهم فعالیت: د یو توک/شی په نښه کول چې سپارل شوی دی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011230Z" creationid="GMH" creationdate="20190712T011230Z">
@@ -302,10 +310,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 1 of 2: To record an item as delivered, tap &lt;t0/&gt;&gt;Delivery signature</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124345Z" creationid="GMH" creationdate="20190714T124345Z">
+        <seg>د ۲ ګامونو لومړۍ ګام: د دې لپاره چې یو توک/ شی ثبت کړئ چې سپارل شوی دی&lt;t0/&gt;&gt;د سپارلو لاسليک</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 1 of 9: Log into the &lt;t0/&gt;Goldozi&lt;t1/&gt; app</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123254Z" creationid="GMH" creationdate="20190714T123254Z">
         <seg>له ۹ ګامونو څخه لومړۍ ګام: داخل شئ&lt;t0/&gt;ګلدوزی&lt;t1/&gt; اپلیکیشن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 2 of 2: Ask your customer to sign the screen and tap &lt;t0/&gt;&gt;ACCEPT &lt;t1/&gt;to save their signature</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124547Z" creationid="GMH" creationdate="20190714T124547Z">
+        <seg>د ۲ ګامونو دوهم ګام: د پیریدونکی څخه وغواړئ چې په سکرین باندی امضآ وکړی او کیکاږی &lt;t0/&gt;&gt;منل &lt;t1/&gt;ترڅو خپل امضآ ثبت کړی</seg>
       </tuv>
     </tu>
     <tu>
