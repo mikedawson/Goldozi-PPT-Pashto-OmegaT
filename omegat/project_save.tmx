@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 9: View due payments and record partial or full payments</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T131009Z" creationid="GMH" creationdate="20190714T131009Z">
+        <seg>نهم فعالیت: د اداینې وړ پیسو لیدل او د ځینی یا ټول ادا شوی پیسې ثبت کړئ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011230Z" creationid="GMH" creationdate="20190712T011230Z">
@@ -414,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 1 of 7: To view payments that are due, tap &lt;t0/&gt;&gt;Payments due</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T131115Z" creationid="GMH" creationdate="20190714T131115Z">
+        <seg>د ۷ ګامونو لومړۍ ګام: د هغو پیسو لیدل چې د اداینې وړ دي، کیکاږئ &lt;t0/&gt;&gt;د اداینې وړ پیسې</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 1 of 9: Log into the &lt;t0/&gt;Goldozi&lt;t1/&gt; app</seg>
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123254Z" creationid="GMH" creationdate="20190714T123254Z">
@@ -458,6 +474,14 @@
       </tuv>
       <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123336Z" creationid="GMH" creationdate="20190714T123336Z">
         <seg>له ۹ ګامونو څخه دوهم ګام: T&lt;t0/&gt;اپلیکیشن&lt;t1/&gt; &lt;t2/&gt;&gt;&lt;t3/&gt;ثبت&lt;t4/&gt; &lt;t5/&gt;خرڅلا</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 3 of 3: To edit a pre-order, tap it</seg>
+      </tuv>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T130830Z" creationid="GMH" creationdate="20190714T130830Z">
+        <seg>د ۳ ګامونو دریم ګام: د یو مخکینی فرمایش د سمون لپاره، کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
