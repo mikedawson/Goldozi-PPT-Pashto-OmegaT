@@ -840,8 +840,8 @@
       <tuv lang="EN-US">
         <seg>Step 2 of 9: T&lt;t0/&gt;ap&lt;t1/&gt; &lt;t2/&gt;&gt;&lt;t3/&gt;Record&lt;t4/&gt; &lt;t5/&gt;Sale</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123336Z" creationid="GMH" creationdate="20190714T123336Z">
-        <seg>له ۹ ګامونو څخه دوهم ګام: T&lt;t0/&gt;اپلیکیشن&lt;t1/&gt; &lt;t2/&gt;&gt;&lt;t3/&gt;ثبت&lt;t4/&gt; &lt;t5/&gt;خرڅلا</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T171616Z" creationid="GMH" creationdate="20190714T123336Z">
+        <seg>له ۹ ګامونو څخه دوهم ګام: د خرڅلا ثبت کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -888,8 +888,8 @@
       <tuv lang="EN-US">
         <seg>Step 3 of 9: Tap &lt;t0/&gt;&gt;Location &lt;t1/&gt;to select the correct location</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123446Z" creationid="GMH" creationdate="20190714T123446Z">
-        <seg>له ۹ ګامونو څخه دریم ګام: کیکاږئ &lt;t0/&gt;&gt;موقعیت &lt;t1/&gt;چې سم موقعیت غوره کړئ</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T171727Z" creationid="GMH" creationdate="20190714T123446Z">
+        <seg>له ۹ ګامونو څخه دریم ګام: د دقیق موقعیت مالومولو لپاره موقعیت کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
