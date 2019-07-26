@@ -768,8 +768,8 @@
       <tuv lang="EN-US">
         <seg>Step 1 of 4: Tap &lt;t0/&gt;&gt;Add payment</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124808Z" creationid="GMH" creationdate="20190714T124808Z">
-        <seg>د ۴ ګامونو لومړۍ ګام: کیکاږئ&lt;t0/&gt;&gt;د ادا شوی پیسی اضافه کول</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T172346Z" creationid="GMH" creationdate="20190714T124808Z">
+        <seg>د ۴ ګامونو لومړۍ ګام: د ادا شوی پیسی اضافه کول کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -824,8 +824,8 @@
       <tuv lang="EN-US">
         <seg>Step 2 of 4: Tap &lt;t0/&gt;&gt;P&lt;t1/&gt;a&lt;t2/&gt;yment&lt;t3/&gt; amount &lt;t4/&gt;and record the amount that has been paid</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124938Z" creationid="GMH" creationdate="20190714T124938Z">
-        <seg>د ۴ ګامونو دوهم ګام: کیکاږئ&lt;t0/&gt;&gt;P&lt;t1/&gt;a&lt;t2/&gt;ادا شوی پیسې&lt;t3/&gt; مقدار &lt;t4/&gt;او هغه اندازه پیسې چې ادا شوي دي، اضافه کړئ</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T172634Z" creationid="GMH" creationdate="20190714T124938Z">
+        <seg>د ۴ ګامونو دوهم ګام: د ادا شوی پیسې مقدار کیکاږئ او هغه مقدار پیسې چې ادا شوی دی ثبت کړئ</seg>
       </tuv>
     </tu>
     <tu>
