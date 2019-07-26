@@ -776,8 +776,8 @@
       <tuv lang="EN-US">
         <seg>Step 1 of 7: To view payments that are due, tap &lt;t0/&gt;&gt;Payments due</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T131115Z" creationid="GMH" creationdate="20190714T131115Z">
-        <seg>د ۷ ګامونو لومړۍ ګام: د هغو پیسو لیدل چې د اداینې وړ دي، کیکاږئ &lt;t0/&gt;&gt;د اداینې وړ پیسې</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T173834Z" creationid="GMH" creationdate="20190714T131115Z">
+        <seg>د ۷ ګامونو لومړۍ ګام: د هغو پیسو لیدل چې د اداینې وړ دي، د اداینې وړ پیسی کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -808,8 +808,8 @@
       <tuv lang="EN-US">
         <seg>Step 2 of 3: To filter pre-orders, tap &lt;t0/&gt;&gt;Sort by</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T173611Z" creationid="GMH" creationdate="20190714T130752Z">
-        <seg>د ۳ ګامونو دوهم ګام: د مخکینی فرمایشاتو د چاڼ یا فلټر کولو لپاره، د ... په اساس اڼن کیکاږئ</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T173740Z" creationid="GMH" creationdate="20190714T130752Z">
+        <seg>د ۳ ګامونو دوهم ګام: د مخکینی فرمایشاتو د چاڼ یا فلټر کولو لپاره، ترتیب کول په ... اساس کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
