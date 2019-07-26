@@ -24,8 +24,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t9/&gt;They&lt;t10/&gt; &lt;t11/&gt;would&lt;t12/&gt; like &lt;t13/&gt;to&lt;t14/&gt; &lt;t15/&gt;buy&lt;t16/&gt; &lt;t17/&gt;two&lt;t18/&gt; &lt;t19/&gt;scarves&lt;t20/&gt; &lt;t21/&gt;from&lt;t22/&gt; &lt;t23/&gt;you&lt;t24/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T172521Z" creationid="GMH" creationdate="20190715T172521Z">
-        <seg>&lt;t9/&gt;هغوی&lt;t10/&gt; &lt;t11/&gt;غواړی&lt;t12/&gt; غواړی &lt;t13/&gt;چې&lt;t14/&gt; &lt;t15/&gt;وپیری&lt;t16/&gt; &lt;t17/&gt;دوه&lt;t18/&gt; &lt;t19/&gt;ټکري&lt;t20/&gt; &lt;t21/&gt;له&lt;t22/&gt; &lt;t23/&gt;تاسو&lt;t24/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175042Z" creationid="GMH" creationdate="20190715T172521Z">
+        <seg>دوی غواړی چې ستاسو څخه دوه ټکري وپلوری</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +560,8 @@
       <tuv lang="EN-US">
         <seg>Please log into the &lt;t0/&gt;Goldozi&lt;t1/&gt; App.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T171918Z" creationid="GMH" creationdate="20190715T171918Z">
-        <seg>مهربانی وکړئ داخل شئ &lt;t0/&gt;ګلدوزی&lt;t1/&gt; اپلیکیشن</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T174912Z" creationid="GMH" creationdate="20190715T171918Z">
+        <seg>مهربانی وکړئ د ګلدوزی اپلیکیشن ته داخل شئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -704,8 +704,8 @@
       <tuv lang="EN-US">
         <seg>Section 2: Managing sales to customers</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T172120Z" creationid="GMH" creationdate="20190715T172120Z">
-        <seg>دوهمه برخه: د مشتریانو لپاره د خرڅلاوو مدیریت کول</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175111Z" creationid="GMH" creationdate="20190715T172120Z">
+        <seg>دوهمه برخه:د مشتریانو لپاره د خرڅلاوو مدیریت کول</seg>
       </tuv>
     </tu>
     <tu>
@@ -1184,8 +1184,8 @@
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;first&lt;t1/&gt; &lt;t2/&gt;scarf&lt;t3/&gt; &lt;t4/&gt;is&lt;t5/&gt; &lt;t6/&gt;worth&lt;t7/&gt; 200 &lt;t8/&gt;Afs&lt;t9/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T172620Z" creationid="GMH" creationdate="20190715T172620Z">
-        <seg>هغه&lt;t0/&gt;لومړۍ&lt;t1/&gt; &lt;t2/&gt;ټکری&lt;t3/&gt; &lt;t4/&gt;ده&lt;t5/&gt; &lt;t6/&gt;اارزښت&lt;t7/&gt; 200 &lt;t8/&gt;افغانۍ&lt;t9/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175143Z" creationid="GMH" creationdate="20190715T172620Z">
+        <seg>د لومړی ټکری ارزښت ۲۰۰ افغانی دی</seg>
       </tuv>
     </tu>
     <tu>
@@ -1416,8 +1416,8 @@
       <tuv lang="EN-US">
         <seg>Your&lt;t0/&gt; &lt;t1/&gt;examiner&lt;t2/&gt; &lt;t3/&gt;is&lt;t4/&gt; &lt;t5/&gt;now&lt;t6/&gt; a &lt;t7/&gt;customer&lt;t8/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T172203Z" creationid="GMH" creationdate="20190715T172203Z">
-        <seg>ستاسو&lt;t0/&gt; &lt;t1/&gt;د آزموینې اخیستونکی&lt;t2/&gt; &lt;t3/&gt;دی&lt;t4/&gt; &lt;t5/&gt;اوس&lt;t6/&gt; یو &lt;t7/&gt;پیریدونکی&lt;t8/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175000Z" creationid="GMH" creationdate="20190715T172203Z">
+        <seg>ستاسو د آزموینې اخیستونکی اوس یو پیریدونکی دی</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
