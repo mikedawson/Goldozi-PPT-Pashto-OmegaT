@@ -744,8 +744,8 @@
       <tuv lang="EN-US">
         <seg>Step 1 of 2: To record an item as delivered, tap &lt;t0/&gt;&gt;Delivery signature</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124345Z" creationid="GMH" creationdate="20190714T124345Z">
-        <seg>د ۲ ګامونو لومړۍ ګام: د دې لپاره چې یو توک/ شی ثبت کړئ چې سپارل شوی دی&lt;t0/&gt;&gt;د سپارلو لاسليک</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T172148Z" creationid="GMH" creationdate="20190714T124345Z">
+        <seg>د ۲ ګامونو لومړۍ ګام: د دې لپاره چې یو توک/ شی ثبت کړئ چې سپارل شوی دی، د سپارلو لاسلیک کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,8 +800,8 @@
       <tuv lang="EN-US">
         <seg>Step 2 of 2: Ask your customer to sign the screen and tap &lt;t0/&gt;&gt;ACCEPT &lt;t1/&gt;to save their signature</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124547Z" creationid="GMH" creationdate="20190714T124547Z">
-        <seg>د ۲ ګامونو دوهم ګام: د پیریدونکی څخه وغواړئ چې په سکرین باندی امضآ وکړی او کیکاږی &lt;t0/&gt;&gt;منل &lt;t1/&gt;ترڅو خپل امضآ ثبت کړی</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T172305Z" creationid="GMH" creationdate="20190714T124547Z">
+        <seg>د ۲ ګامونو دوهم ګام: د پیریدونکی څخه وغواړئ چې په سکرین باندی امضآ وکړی او منل کیکاږی ترڅو خپل امضآ ثبت کړی</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +992,8 @@
       <tuv lang="EN-US">
         <seg>Step 9 of 9: Tap &lt;t0/&gt;&gt;SAVE</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T124055Z" creationid="GMH" creationdate="20190714T124055Z">
-        <seg>له ۹ ګامونو څخه نهم ګام: کیکاږئ&lt;t0/&gt;&gt;ثبت</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T172044Z" creationid="GMH" creationdate="20190714T124055Z">
+        <seg>له ۹ ګامونو څخه نهم ګام: ثبت کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
