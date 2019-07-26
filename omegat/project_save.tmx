@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t10/&gt;You&lt;t11/&gt; &lt;t12/&gt;have&lt;t13/&gt; &lt;t14/&gt;it&lt;t15/&gt; in stock.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T172754Z" creationid="GMH" creationdate="20190715T172754Z">
-        <seg>&lt;t10/&gt;تاسو&lt;t11/&gt; &lt;t12/&gt;لرئ&lt;t13/&gt; &lt;t14/&gt;it&lt;t15/&gt; په ذخیره کې</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175203Z" creationid="GMH" creationdate="20190715T172754Z">
+        <seg>تاسو هغه په ذخیره کې لرئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -616,8 +616,8 @@
       <tuv lang="EN-US">
         <seg>Record&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;sale&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T172819Z" creationid="GMH" creationdate="20190715T172819Z">
-        <seg>ثبت&lt;t0/&gt; &lt;t1/&gt;هغه&lt;t2/&gt; &lt;t3/&gt;خرڅلا&lt;t4/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175212Z" creationid="GMH" creationdate="20190715T172819Z">
+        <seg>دا خرڅلا ثبت کړئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,8 +1000,8 @@
       <tuv lang="EN-US">
         <seg>Stop&lt;t0/&gt; &lt;t1/&gt;when&lt;t2/&gt; &lt;t3/&gt;you&lt;t4/&gt; &lt;t5/&gt;reach&lt;t6/&gt; &lt;t7/&gt;this&lt;t8/&gt; &lt;t9/&gt;screen&lt;t10/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T172919Z" creationid="GMH" creationdate="20190715T172919Z">
-        <seg>دریږ&lt;t0/&gt; &lt;t1/&gt;کله چې&lt;t2/&gt; &lt;t3/&gt;تاسو&lt;t4/&gt; &lt;t5/&gt;ورسیږئ&lt;t6/&gt; &lt;t7/&gt;دې&lt;t8/&gt; &lt;t9/&gt;سکرین ته&lt;t10/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175410Z" creationid="GMH" creationdate="20190715T172919Z">
+        <seg>کله چې دې سکرین ته ورسیدئ، توقف وکړئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1408,8 +1408,8 @@
       <tuv lang="EN-US">
         <seg>Your&lt;t0/&gt; &lt;t1/&gt;customer&lt;t2/&gt; &lt;t3/&gt;would&lt;t4/&gt; like &lt;t5/&gt;to&lt;t6/&gt; &lt;t7/&gt;add&lt;t8/&gt; &lt;t9/&gt;one&lt;t10/&gt; &lt;t11/&gt;more&lt;t12/&gt; &lt;t13/&gt;scarf&lt;t14/&gt;  - also &lt;t15/&gt;worth&lt;t16/&gt; 200 &lt;t17/&gt;Afs&lt;t18/&gt;  - &lt;t19/&gt;to&lt;t20/&gt; &lt;t21/&gt;their&lt;t22/&gt; &lt;t23/&gt;order&lt;t24/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T173252Z" creationid="GMH" creationdate="20190715T173252Z">
-        <seg>ستاسو&lt;t0/&gt; &lt;t1/&gt;پیریدونکی&lt;t2/&gt; &lt;t3/&gt;غواړی&lt;t4/&gt; غواړی &lt;t5/&gt;چې&lt;t6/&gt; &lt;t7/&gt;اضافه کړی&lt;t8/&gt; &lt;t9/&gt;یو&lt;t10/&gt; &lt;t11/&gt;بل&lt;t12/&gt; &lt;t13/&gt;ټکری&lt;t14/&gt;  - هم &lt;t15/&gt;ارزښت&lt;t16/&gt; 200 &lt;t17/&gt;افغانۍ&lt;t18/&gt;  - &lt;t19/&gt;په&lt;t20/&gt; &lt;t21/&gt;خپل&lt;t22/&gt; &lt;t23/&gt; فرمایش کې &lt;t24/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175550Z" creationid="GMH" creationdate="20190715T173252Z">
+        <seg>ستاسو پیریدونکی غواړی چې یو بل ټکری هم پخپل فرمایش کې اضافه کړی چې د هغه بیه هم ۲۰۰ افغانی ده</seg>
       </tuv>
     </tu>
     <tu>
