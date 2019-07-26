@@ -152,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011230Z" creationid="GMH" creationdate="20190712T011230Z">
-        <seg>ټول فرمایشات د ګلدوزی په اپلیکیشن که تعقیبیږی&lt;t0/&gt;A&lt;t1/&gt;اپلیکیشن</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T171247Z" creationid="GMH" creationdate="20190712T011230Z">
+        <seg>ټول فرمایشات د ګلدوزی په اپلیکیشن کې تعقیبیږی</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,8 +216,8 @@
       <tuv lang="EN-US">
         <seg>How the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp helps:</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T011145Z" creationid="GMH" creationdate="20190712T011145Z">
-        <seg>د ګلدوزی اپلیکیشن څنګه &lt;t0/&gt;A&lt;t1/&gt;مرسته کولای شی:</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T171146Z" creationid="GMH" creationdate="20190712T011145Z">
+        <seg>د ګلدوزی اپلیکیشن څنګه مرسته کولای شی</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="EN-US">
         <seg>Learn&lt;t0/&gt; &lt;t1/&gt;how&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;record&lt;t6/&gt; a &lt;t7/&gt;pre&lt;t8/&gt;-order.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T122808Z" creationid="GMH" creationdate="20190714T122335Z">
-        <seg>زده کړئ&lt;t0/&gt; &lt;t1/&gt;څنګه&lt;t2/&gt; &lt;t3/&gt;له&lt;t4/&gt; &lt;t5/&gt;ثبت&lt;t6/&gt; یو &lt;t7/&gt;مخکینی&lt;t8/&gt;فرمایش</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T171355Z" creationid="GMH" creationdate="20190714T122335Z">
+        <seg>د دې زده کول چې څنګه کولای شئ یو مخکینی فرمایش ثبت کړئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -784,8 +784,8 @@
       <tuv lang="EN-US">
         <seg>Step 1 of 9: Log into the &lt;t0/&gt;Goldozi&lt;t1/&gt; app</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T123254Z" creationid="GMH" creationdate="20190714T123254Z">
-        <seg>له ۹ ګامونو څخه لومړۍ ګام: داخل شئ&lt;t0/&gt;ګلدوزی&lt;t1/&gt; اپلیکیشن</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T171457Z" creationid="GMH" creationdate="20190714T123254Z">
+        <seg>له ۹ ګامونو څخه لومړۍ ګام: د ګلدوزی اپلیکیشن ته داخل شئ</seg>
       </tuv>
     </tu>
     <tu>
