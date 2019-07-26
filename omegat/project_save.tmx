@@ -176,8 +176,8 @@
       <tuv lang="EN-US">
         <seg>Enter &lt;t0/&gt;their&lt;t1/&gt; &lt;t2/&gt;payment&lt;t3/&gt; &lt;t4/&gt;of&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;remaining&lt;t9/&gt; &lt;t10/&gt;balance&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T190751Z" creationid="GMH" creationdate="20190715T190751Z">
-        <seg>داخل کړئ&lt;t0/&gt;د هغوی&lt;t1/&gt; &lt;t2/&gt;ادا شوی پیسی&lt;t3/&gt; &lt;t4/&gt;له&lt;t5/&gt; &lt;t6/&gt;هغه&lt;t7/&gt; &lt;t8/&gt;پاتی&lt;t9/&gt; &lt;t10/&gt;پیسی یا بیلانس څخه&lt;t11/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T180555Z" creationid="GMH" creationdate="20190715T190751Z">
+        <seg>د هغوی د پاتی پیسی اداینه دننه کړئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,8 +208,8 @@
       <tuv lang="EN-US">
         <seg>G&lt;t0/&gt;OLDOZI MOBILE APP TRAINING EVALUATION</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T195421Z" creationid="GMH" creationdate="20190715T191322Z">
-        <seg>ګ&lt;t0/&gt;د ګلدوزی د موبایل  اپلیکیشن د ټریننګ ارزونه</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T180907Z" creationid="GMH" creationdate="20190715T191322Z">
+        <seg>د ګلدوزی د موبایل  اپلیکیشن د ټریننګ ارزونه</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="EN-US">
         <seg>I was given an opportunity to use the &lt;t0/&gt;Goldozi&lt;t1/&gt; app each lesson.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T192233Z" creationid="GMH" creationdate="20190715T192233Z">
-        <seg>ما ته دا موکه راکړ شو چې استفاده کړم د &lt;t0/&gt;ګلدوزی&lt;t1/&gt; اپلیکیشن په هر لوست کې</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T181426Z" creationid="GMH" creationdate="20190715T192233Z">
+        <seg>ما ته دا موکه راکړ شوی وو چې په هر لوست کې د ګلدوزی اپلیکیشن څخه ګټه واخلم</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,8 +520,8 @@
       <tuv lang="EN-US">
         <seg>O&lt;t0/&gt;rganizing                Managing                 Tracking                  Sales</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T005013Z" creationid="GMH" creationdate="20190712T005013Z">
-        <seg>O&lt;t0/&gt;ترتیبول                مدیریت کول                 تعقیبول                  خرڅلاوی</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T182256Z" creationid="GMH" creationdate="20190712T005013Z">
+        <seg>ترتیبول                مدیریت کول                 تعقیبول                  خرڅلاوی</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +568,8 @@
       <tuv lang="EN-US">
         <seg>Please share any additional thoughts on the &lt;t0/&gt;training&lt;t1/&gt; and/or facilitator.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T193938Z" creationid="GMH" creationdate="20190715T193938Z">
-        <seg>مهربانی وکړئ نور کوم اضافی نظریات شریک کړئ د&lt;t0/&gt;ټریننګ &lt;t1/&gt;او یا د ټرینر په هکله</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T182017Z" creationid="GMH" creationdate="20190715T193938Z">
+        <seg>مهربانی وکړئ نور کوم اضافی نظریات شریک کړئ دټریننګ او/یا د ټرینر په هکله</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,16 +600,16 @@
       <tuv lang="EN-US">
         <seg>Record&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;amount&lt;t4/&gt; &lt;t5/&gt;and&lt;t6/&gt; &lt;t7/&gt;date&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; partial &lt;t13/&gt;payment&lt;t14/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T190037Z" creationid="GMH" creationdate="20190715T190037Z">
-        <seg>ثبت&lt;t0/&gt; &lt;t1/&gt;دغه&lt;t2/&gt; &lt;t3/&gt;مقدار پیسی&lt;t4/&gt; &lt;t5/&gt;او&lt;t6/&gt; &lt;t7/&gt;تاریخ&lt;t8/&gt; &lt;t9/&gt;له&lt;t10/&gt; &lt;t11/&gt;هغه&lt;t12/&gt;ځینی&lt;t13/&gt;ادا شوی پیسی&lt;t14/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175938Z" creationid="GMH" creationdate="20190715T190037Z">
+        <seg>د ځینی ادا شوی پیسی مقدار او تاریخ ثبت کړئ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Record&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;sale&lt;t4/&gt; &lt;t5/&gt;as&lt;t6/&gt; &lt;t7/&gt;delivered&lt;t8/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T190820Z" creationid="GMH" creationdate="20190715T190820Z">
-        <seg>ثبت کړئ&lt;t0/&gt; &lt;t1/&gt;هغه&lt;t2/&gt; &lt;t3/&gt;خرڅلا&lt;t4/&gt; &lt;t5/&gt;په توګه&lt;t6/&gt; &lt;t7/&gt;سپارل شوی&lt;t8/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T180622Z" creationid="GMH" creationdate="20190715T190820Z">
+        <seg>دا خرڅلا د سپارل شوی په توګه ثبت کړئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,8 +624,8 @@
       <tuv lang="EN-US">
         <seg>Record&lt;t0/&gt; &lt;t1/&gt;this&lt;t2/&gt; &lt;t3/&gt;request&lt;t4/&gt; &lt;t5/&gt;as&lt;t6/&gt; a &lt;t7/&gt;voice&lt;t8/&gt; &lt;t9/&gt;order&lt;t10/&gt; &lt;t11/&gt;note&lt;t12/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T190343Z" creationid="GMH" creationdate="20190715T190343Z">
-        <seg>ثبت&lt;t0/&gt; &lt;t1/&gt;دغه&lt;t2/&gt; &lt;t3/&gt;غوښتنه&lt;t4/&gt; &lt;t5/&gt;په توګه&lt;t6/&gt;یو&lt;t7/&gt;غږیز&lt;t8/&gt; &lt;t9/&gt;فرمایش&lt;t10/&gt; &lt;t11/&gt;یاددښت&lt;t12/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T180345Z" creationid="GMH" creationdate="20190715T190343Z">
+        <seg>دا غوښتنه د غږیز فرمایش یاددښت فرمایش په توګه ثبت کړئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,8 +672,8 @@
       <tuv lang="EN-US">
         <seg>Save &lt;t0/&gt;the&lt;t1/&gt; &lt;t2/&gt;sale&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T190053Z" creationid="GMH" creationdate="20190715T190053Z">
-        <seg>ثبت&lt;t0/&gt;هغه&lt;t1/&gt; &lt;t2/&gt;خرڅلا&lt;t3/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175952Z" creationid="GMH" creationdate="20190715T190053Z">
+        <seg>دا خرڅلا ثبت کړئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -712,8 +712,8 @@
       <tuv lang="EN-US">
         <seg>Section 3: &lt;t0/&gt;Learning and reinforcing skills</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T190857Z" creationid="GMH" creationdate="20190715T190857Z">
-        <seg>دریمه برخه&lt;t0/&gt;د مهارتونو زده کړه او تقویت کول</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T180726Z" creationid="GMH" creationdate="20190715T190857Z">
+        <seg>دریمه برخه دمهارتونو زده کړه او تقویت کول</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,48 +1136,48 @@
       <tuv lang="EN-US">
         <seg>Tell &lt;t0/&gt;your&lt;t1/&gt; &lt;t2/&gt;customer&lt;t3/&gt; &lt;t4/&gt;how&lt;t5/&gt; &lt;t6/&gt;much&lt;t7/&gt; &lt;t8/&gt;they&lt;t9/&gt; &lt;t10/&gt;owe&lt;t11/&gt; &lt;t12/&gt;you&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T190708Z" creationid="GMH" creationdate="20190715T190708Z">
-        <seg>ووایئ&lt;t0/&gt;خپل&lt;t1/&gt; &lt;t2/&gt;پیریدونکی ته&lt;t3/&gt; &lt;t4/&gt;څومره&lt;t5/&gt; &lt;t6/&gt;پیسی&lt;t7/&gt; &lt;t8/&gt;دوی&lt;t9/&gt; &lt;t10/&gt;قرضدار دی&lt;t11/&gt; &lt;t12/&gt;له تاسو څخه&lt;t13/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T180519Z" creationid="GMH" creationdate="20190715T190708Z">
+        <seg>خپل پیریدونکی ته ووایئ چې څومره پیسی باید درته ادا کړی</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Thank you for participating in the &lt;t0/&gt;Goldozi&lt;t1/&gt; &lt;t2/&gt;m&lt;t3/&gt;obile &lt;t4/&gt;a&lt;t5/&gt;pp &lt;t6/&gt;t&lt;t7/&gt;raining.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T191417Z" creationid="GMH" creationdate="20190715T191417Z">
-        <seg>ستاسو د ګډون څخه مننه په&lt;t0/&gt;ګلدوزی&lt;t1/&gt; &lt;t2/&gt;م&lt;t3/&gt;موبایل&lt;t4/&gt;ا&lt;t5/&gt;اپلیکیشن &lt;t6/&gt;ټ&lt;t7/&gt;ټریننګ کې</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T180948Z" creationid="GMH" creationdate="20190715T191417Z">
+        <seg>د ګلدوزی د موبایل ټریننګ کې ستاسو له ګډون څخه مننه</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;facilitator demonstrated a good understanding of the topics covered and effectively delivered the training.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T192458Z" creationid="GMH" creationdate="20190715T192458Z">
-        <seg>دا&lt;t0/&gt;ټرینر د عنوانونو په هکله ښه پوهه لرل او ټریننګ یې په اغیزمنه توګه وړاندی کړ</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T181454Z" creationid="GMH" creationdate="20190715T192458Z">
+        <seg>ټرینر د عنوانونو په هکله ښه پوهه لرل او ټریننګ یې په اغیزمنه توګه وړاندی کړ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;facilitator did a good job of generating participant interaction while maintaining a positive learning environment.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T192819Z" creationid="GMH" creationdate="20190715T192819Z">
-        <seg>دا&lt;t0/&gt;ټرینر د ګډون کوونکو د متقابل عمل رامنځته کولو لپاره ډیر ښه کارکردګی ترسره کړ او د زده کړې یو مثبت چاپیریال یې رامنځته کړ</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T181518Z" creationid="GMH" creationdate="20190715T192819Z">
+        <seg>ټرینر د ګډون کوونکو د متقابل عمل رامنځته کولو لپاره ډیر ښه کارکردګی ترسره کړ او د زده کړې یو مثبت چاپیریال یې رامنځته کړ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;facilitator provided helpful feedback an assistance during every lesson.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T193100Z" creationid="GMH" creationdate="20190715T193100Z">
-        <seg>دا&lt;t0/&gt;ټرینر د هر لوست په جریان کې ښه نظریات او مرسته فراهم کړ</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T182437Z" creationid="GMH" creationdate="20190715T193100Z">
+        <seg>ټرینر د هر لوست په جریان کې ښه نظریات او مرسته فراهم کړ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;facilitator shared their experience with the participants to be able to relate to the content being discussed.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T192626Z" creationid="GMH" creationdate="20190715T192626Z">
-        <seg>دا&lt;t0/&gt;ټرینر د خپل تجربه له ګډون کوونکو سره شریک کړ ترڅو د بحث وړ محتویاتو ته ورسره اړیکه ورکړی</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T181510Z" creationid="GMH" creationdate="20190715T192626Z">
+        <seg>ټرینر د خپل تجربه له ګډون کوونکو سره شریک کړ ترڅو د بحث وړ محتویاتو ته ورسره اړیکه ورکړی</seg>
       </tuv>
     </tu>
     <tu>
@@ -1192,40 +1192,40 @@
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;lesson objectives were clearly defined.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T191908Z" creationid="GMH" creationdate="20190715T191908Z">
-        <seg>د&lt;t0/&gt;لوست اهداف په واضح توګه بیان شوی وو</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T181321Z" creationid="GMH" creationdate="20190715T191908Z">
+        <seg>لوست اهداف په واضح توګه بیان شوی وو</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;lesson objectives were covered by the facilitator.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T192004Z" creationid="GMH" creationdate="20190715T192004Z">
-        <seg>د&lt;t0/&gt;لوست اهداف د ټرینر په واسطه ترپوښښ لاندی ونیول شو</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T182424Z" creationid="GMH" creationdate="20190715T192004Z">
+        <seg>د لوست اهداف د ټرینر په واسطه تر پوښښ لاندی ونیول شو</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;pace of the training was good.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T192843Z" creationid="GMH" creationdate="20190715T192843Z">
-        <seg>دا&lt;t0/&gt;ټریننګ سرعت ښه وو</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T181537Z" creationid="GMH" creationdate="20190715T192843Z">
+        <seg>د ټریننګ سرعت ښه وو</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;temperature was comfortable.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T193322Z" creationid="GMH" creationdate="20190715T193322Z">
-        <seg>د&lt;t0/&gt;حرارت درجه راحت بخشه وو</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T181821Z" creationid="GMH" creationdate="20190715T193322Z">
+        <seg>حرارت درجه راحت بخشه وو</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;training facility had adequate lighting.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T193300Z" creationid="GMH" creationdate="20190715T193300Z">
-        <seg>د&lt;t0/&gt;ټریننګ ځای په مناسب اندازه روڼ وو</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T181810Z" creationid="GMH" creationdate="20190715T193300Z">
+        <seg>ټریننګ ځای په مناسب اندازه روڼ وو</seg>
       </tuv>
     </tu>
     <tu>
@@ -1248,8 +1248,8 @@
       <tuv lang="EN-US">
         <seg>The breaks were spaced at the right times during the &lt;t0/&gt;training</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T193151Z" creationid="GMH" creationdate="20190715T193151Z">
-        <seg>د هرې غونډې ترمینځ وقفه په سم وخت کې تنظیم شوی وو &lt;t0/&gt;د ټریننګ په جریان کې</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T181755Z" creationid="GMH" creationdate="20190715T193151Z">
+        <seg>د هرې غونډې ترمینځ وقفه په سم وخت کې تنظیم شوی وود ټریننګ په جریان کې</seg>
       </tuv>
     </tu>
     <tu>
@@ -1264,8 +1264,8 @@
       <tuv lang="EN-US">
         <seg>The duration of the le&lt;t0/&gt;ssons&lt;t1/&gt; &lt;t2/&gt;was&lt;t3/&gt; appropriate for the content objectives and complexity.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T193012Z" creationid="GMH" creationdate="20190715T193012Z">
-        <seg>جریان&lt;t0/&gt;د لوستونو&lt;t1/&gt; &lt;t2/&gt;وو&lt;t3/&gt; د محتویاتو د اهدافو او پیچلتیا لپاره مناسب</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T181718Z" creationid="GMH" creationdate="20190715T193012Z">
+        <seg>د لوستونو جریان د محتویاتو د اهدافو او پیچلتیا سره مناسب وو</seg>
       </tuv>
     </tu>
     <tu>
@@ -1296,8 +1296,8 @@
       <tuv lang="EN-US">
         <seg>The purpose of the &lt;t0/&gt;Goldozi&lt;t1/&gt; App is to help you manage and increase your sales</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190712T004929Z" creationid="GMH" creationdate="20190712T004929Z">
-        <seg>د دې اپلیکیشن هدف&lt;t0/&gt;ګلدوزی&lt;t1/&gt; له تاسو سره مرسته کوی چې خپل خرڅلاوی مدیریت کړئ او کچه یی لوړ کړئ</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T182236Z" creationid="GMH" creationdate="20190712T004929Z">
+        <seg>د ګلدوزی د اپلیکیشن هدف دا دی ترڅو له تاسو سره مرسته وکړی چې خپل خرڅلا زیات کړئ او هغه مدیریت کړئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,8 +1328,8 @@
       <tuv lang="EN-US">
         <seg>We hope that you found the lessons helpful as we try to set you up for success in your role with us.&lt;t8/&gt; &lt;t9/&gt;We would like to ask for your feedback on our &lt;t10/&gt;training&lt;t11/&gt; so that we can continue to improve and provide you the best training possible.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T191748Z" creationid="GMH" creationdate="20190715T191748Z">
-        <seg>موږ هیله لرو چې تاسو ته دا درسونه مرستندویه واقع شوی وی لکه څنګه چې موږ هڅه کوو ستاسو رول زموږ سره کامیابه اوسی&lt;t8/&gt; &lt;t9/&gt;مو ستاسو نظریات غواړو د خپل د&lt;t10/&gt;ټریننګ په هکله&lt;t11/&gt; ترڅو موږ وکولای شو تاسو ته لا ښه ټریننګ وړاندی کړو</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T181300Z" creationid="GMH" creationdate="20190715T191748Z">
+        <seg>موږ هیله لرو چې تاسو ته دا درسونه مرستندویه واقع شوی وی لکه څنګه چې موږ هڅه کوو ستاسو رول زموږ سره کامیابه اوسی. موږ د خپل ټریننګ په هکله ستاسو نظریات غواړو ترڅو موږ وکولای شو تاسو ته نور ښه ټریننګ فراهم کړو</seg>
       </tuv>
     </tu>
     <tu>
@@ -1344,8 +1344,8 @@
       <tuv lang="EN-US">
         <seg>What did you like most about the &lt;t0/&gt;training&lt;t1/&gt;?</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T193727Z" creationid="GMH" creationdate="20190715T193727Z">
-        <seg>څه شی تاسو ته ترټولو زیات د خوښی وړ وو &lt;t0/&gt;په دې ټریننګ کې&lt;t1/&gt;?</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T181937Z" creationid="GMH" creationdate="20190715T193727Z">
+        <seg>په ټریننګ کې څه شی تاسو ته تر ټول زیات د خوښ وړ وو؟</seg>
       </tuv>
     </tu>
     <tu>
@@ -1376,8 +1376,8 @@
       <tuv lang="EN-US">
         <seg>You&lt;t0/&gt; &lt;t1/&gt;have&lt;t2/&gt; &lt;t3/&gt;received&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;second&lt;t8/&gt; &lt;t9/&gt;scarf&lt;t10/&gt; &lt;t11/&gt;and&lt;t12/&gt; &lt;t13/&gt;your&lt;t14/&gt; &lt;t15/&gt;customer&lt;t16/&gt; &lt;t17/&gt;would&lt;t18/&gt; like &lt;t19/&gt;to&lt;t20/&gt; &lt;t21/&gt;pay&lt;t22/&gt; &lt;t23/&gt;the&lt;t24/&gt; &lt;t25/&gt;remaining&lt;t26/&gt; &lt;t27/&gt;balance&lt;t28/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T190601Z" creationid="GMH" creationdate="20190715T190601Z">
-        <seg>تاسو&lt;t0/&gt; &lt;t1/&gt;دی&lt;t2/&gt; &lt;t3/&gt;ترلاسه کړی&lt;t4/&gt; &lt;t5/&gt;دغه&lt;t6/&gt; &lt;t7/&gt;دوهم&lt;t8/&gt; &lt;t9/&gt;ټکری&lt;t10/&gt; &lt;t11/&gt;او&lt;t12/&gt; &lt;t13/&gt;ستاسو&lt;t14/&gt; &lt;t15/&gt;پیریدونکی&lt;t16/&gt; &lt;t17/&gt;غواړی&lt;t18/&gt;غواړی&lt;t19/&gt;چې&lt;t20/&gt; &lt;t21/&gt;ادا کړی&lt;t22/&gt; &lt;t23/&gt;هغه&lt;t24/&gt; &lt;t25/&gt;پاتی&lt;t26/&gt; &lt;t27/&gt;پیسی&lt;t28/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T180435Z" creationid="GMH" creationdate="20190715T190601Z">
+        <seg>تاسو دوهم ټکری ترلاسه کړی او ستاسو پیریدونکی غواړی چې پاتی پیسی ادا کړی</seg>
       </tuv>
     </tu>
     <tu>
@@ -1400,8 +1400,8 @@
       <tuv lang="EN-US">
         <seg>Your&lt;t0/&gt; &lt;t1/&gt;customer&lt;t2/&gt; &lt;t3/&gt;would&lt;t4/&gt; like &lt;t5/&gt;their&lt;t6/&gt; &lt;t7/&gt;second&lt;t8/&gt; &lt;t9/&gt;scarf&lt;t10/&gt; &lt;t11/&gt;to&lt;t12/&gt; &lt;t13/&gt;be&lt;t14/&gt; a &lt;t15/&gt;specific&lt;t16/&gt; &lt;t17/&gt;color&lt;t18/&gt; - &lt;t19/&gt;bright&lt;t20/&gt; &lt;t21/&gt;green&lt;t22/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T190255Z" creationid="GMH" creationdate="20190715T190255Z">
-        <seg>ستاسو&lt;t0/&gt; &lt;t1/&gt;پیریدونکی&lt;t2/&gt; &lt;t3/&gt;غواړی&lt;t4/&gt;غواړی&lt;t5/&gt;خپل&lt;t6/&gt; &lt;t7/&gt;دوهم&lt;t8/&gt; &lt;t9/&gt;ټکری&lt;t10/&gt; &lt;t11/&gt;چې&lt;t12/&gt; &lt;t13/&gt;اوسی&lt;t14/&gt;یو&lt;t15/&gt;ځانګړی&lt;t16/&gt; &lt;t17/&gt;رنګ&lt;t18/&gt; - &lt;t19/&gt;روښانه&lt;t20/&gt; &lt;t21/&gt;شین&lt;t22/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T180237Z" creationid="GMH" creationdate="20190715T190255Z">
+        <seg>ستاسو پیریدونکی غواړی چې د هغوی دوهم ټکری باید په یو خاص رنګ وی، روښانه شین رنګ</seg>
       </tuv>
     </tu>
     <tu>
