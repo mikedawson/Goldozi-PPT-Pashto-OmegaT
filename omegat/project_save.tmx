@@ -752,8 +752,8 @@
       <tuv lang="EN-US">
         <seg>Step 1 of 3: To find a pre-order, tap &lt;t0/&gt;&gt;Pre-orders</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T130625Z" creationid="GMH" creationdate="20190714T130625Z">
-        <seg>د ۳ ګامونو لومړۍ ګام: د یو مخکینی فرمایش د پیدا کولو لپاره، کیکاږئ &lt;t0/&gt;&gt;مخکینی فرمایشات</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T173409Z" creationid="GMH" creationdate="20190714T130625Z">
+        <seg>د ۳ ګامونو لومړۍ ګام: د یو مخکینی فرمایش د پیدا کولو لپاره، مخیکینی فرمایشات کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -808,8 +808,8 @@
       <tuv lang="EN-US">
         <seg>Step 2 of 3: To filter pre-orders, tap &lt;t0/&gt;&gt;Sort by</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T130752Z" creationid="GMH" creationdate="20190714T130752Z">
-        <seg>د ۳ ګامونو دوهم ګام: د مخکینی فرمایشاتو د چاڼ یا فلټر کولو لپاره، کیکاږئ&lt;t0/&gt;&gt;د ... په اساس اڼن </seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T173611Z" creationid="GMH" creationdate="20190714T130752Z">
+        <seg>د ۳ ګامونو دوهم ګام: د مخکینی فرمایشاتو د چاڼ یا فلټر کولو لپاره، د ... په اساس اڼن کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
