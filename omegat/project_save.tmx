@@ -80,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>Activity 6: &lt;t0/&gt;Record&lt;t1/&gt; a &lt;t2/&gt;pre&lt;t3/&gt;-order</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T125704Z" creationid="GMH" creationdate="20190714T125704Z">
-        <seg>شپږم فعالیت:  &lt;t0/&gt;ثبت&lt;t1/&gt; یو &lt;t2/&gt;مخکینی&lt;t3/&gt;فرمایش</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T173102Z" creationid="GMH" creationdate="20190714T125704Z">
+        <seg>شپږم فعالیت: د یو مخکینی فرمایش ثبتول</seg>
       </tuv>
     </tu>
     <tu>
@@ -760,8 +760,8 @@
       <tuv lang="EN-US">
         <seg>Step 1 of 3: To find a sale, tap &lt;t0/&gt;&gt;All sales</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T130235Z" creationid="GMH" creationdate="20190714T130235Z">
-        <seg>د ۳ ګامونو لومړۍ ګام: د یو خرڅلا د پیدا کولو لپاره، کیکاږئ&lt;t0/&gt;&gt;ټول خرڅلاوی</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T173205Z" creationid="GMH" creationdate="20190714T130235Z">
+        <seg>د ۳ ګامونو لومړۍ ګام: د یو خرڅلا د پیدا کولو لپاره، ټول خرڅلاوی کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,8 +816,8 @@
       <tuv lang="EN-US">
         <seg>Step 2 of 3: To filter sales, tap &lt;t0/&gt;&gt;Sort by</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190714T130403Z" creationid="GMH" creationdate="20190714T130403Z">
-        <seg>د ۳ ګامونو دوهم ګام: د خرڅلاوو د فلټر کولو لپاره، کیکاږئ&lt;t0/&gt;&gt;منظم کول د ... په اساس</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T173313Z" creationid="GMH" creationdate="20190714T130403Z">
+        <seg>د ۳ ګامونو دوهم ګام: د خرڅلاوو د فلټر کولو لپاره، منظم کول د ... په اساس کیکاږئ</seg>
       </tuv>
     </tu>
     <tu>
