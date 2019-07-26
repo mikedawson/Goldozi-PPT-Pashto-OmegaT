@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t25/&gt;You&lt;t26/&gt; &lt;t27/&gt;don‘t&lt;t28/&gt; &lt;t29/&gt;have&lt;t30/&gt; &lt;t31/&gt;this&lt;t32/&gt; &lt;t33/&gt;scarf&lt;t34/&gt; in stock.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T173341Z" creationid="GMH" creationdate="20190715T173341Z">
-        <seg>&lt;t25/&gt;تاسو&lt;t26/&gt; &lt;t27/&gt;نه&lt;t28/&gt; &lt;t29/&gt;لرئ&lt;t30/&gt; &lt;t31/&gt;دا&lt;t32/&gt; &lt;t33/&gt;ټکری&lt;t34/&gt; په ذخیره کې</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175634Z" creationid="GMH" creationdate="20190715T173341Z">
+        <seg>تاسو دا ټکری په ذخیره کې نلرئ</seg>
       </tuv>
     </tu>
     <tu>
@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>Add &lt;t0/&gt;the&lt;t1/&gt; &lt;t2/&gt;scarf&lt;t3/&gt; &lt;t4/&gt;to&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;customer‘s&lt;t9/&gt; &lt;t10/&gt;order&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T173447Z" creationid="GMH" creationdate="20190715T173447Z">
-        <seg>اضافه کړئ&lt;t0/&gt;هغه&lt;t1/&gt; &lt;t2/&gt;ټکری&lt;t3/&gt; &lt;t4/&gt;په&lt;t5/&gt; &lt;t6/&gt;هغه&lt;t7/&gt; &lt;t8/&gt;پلورونکی&lt;t9/&gt; &lt;t10/&gt;فرمایش کې&lt;t11/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175714Z" creationid="GMH" creationdate="20190715T173447Z">
+        <seg>دا ټکری د پیریدونکی په فرمایش کې ورزیات کړی</seg>
       </tuv>
     </tu>
     <tu>
@@ -1392,8 +1392,8 @@
       <tuv lang="EN-US">
         <seg>Your&lt;t0/&gt; &lt;t1/&gt;customer&lt;t2/&gt; &lt;t3/&gt;makes&lt;t4/&gt; a partial &lt;t5/&gt;payment&lt;t6/&gt; &lt;t7/&gt;of&lt;t8/&gt; 50 &lt;t9/&gt;Afs&lt;t10/&gt; on &lt;t11/&gt;their&lt;t12/&gt; &lt;t13/&gt;order&lt;t14/&gt;.</seg>
       </tuv>
-      <tuv lang="PS-AF" changeid="GMH" changedate="20190715T185936Z" creationid="GMH" creationdate="20190715T185936Z">
-        <seg>ستاسو&lt;t0/&gt; &lt;t1/&gt;پیریدونکی&lt;t2/&gt; &lt;t3/&gt;ادا کوی&lt;t4/&gt;یوه برخه  &lt;t5/&gt;پیسی&lt;t6/&gt; &lt;t7/&gt;له&lt;t8/&gt; 50 &lt;t9/&gt;افغانی&lt;t10/&gt; په &lt;t11/&gt;خپل&lt;t12/&gt; &lt;t13/&gt;فرمایش&lt;t14/&gt;.</seg>
+      <tuv lang="PS-AF" changeid="GMH" changedate="20190726T175859Z" creationid="GMH" creationdate="20190715T185936Z">
+        <seg>ستاسو پیریدونکی د خپل د فرمایش لپاره یوه برخه پیسی یا ۵۰ افغانی ادا کوی</seg>
       </tuv>
     </tu>
     <tu>
